@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Hans Rübberdt",
+	"description":	{
+		"":	"A simple script to generate a bell nozzle."
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
